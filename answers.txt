@@ -2,7 +2,7 @@ Part 1: Write your message here from GitHub
 hello this is a message
 
 Task 1: 
-// Under this line, describe what the command 'git fetch' does
+Git fetch fetches updated commits from the origin without actually adjusting the code in your local repository.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
